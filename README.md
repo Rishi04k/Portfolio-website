@@ -37,4 +37,5 @@ I craft responsive, accessible, and interactive user interfaces using HTML, CSS,
 ## 📸 Screenshots
 
 
-<img width="1880" height="873" alt="portfolio" src="https://github.com/user-attachments/assets/68995bfc-abbc-43ec-99c6-13958a1052cb" />
+<img width="1880" height="873" alt="portfolio" src="https://github.com/user-attachments/assets/809aa9ac-4a3b-45a6-bf74-cc3844e6619b" />
+
